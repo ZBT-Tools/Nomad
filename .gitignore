@@ -1,5 +1,5 @@
 # Admin-password is stored in nomad.yaml and docker-compose.yaml
-configs/nomad.yaml
+#configs/nomad.yaml
 docker-compose.yaml
 # Byte-compiled / optimized / DLL files
 __pycache__/
