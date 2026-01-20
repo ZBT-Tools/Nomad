@@ -60,7 +60,7 @@ plugins = [
   "nomad-parser-plugins-database>=1.0",
   "nomad-greenlight-plugin @ git+https://github.com/ZBT-Tools/nomad-greenlight-plugin.git",
   "nptdms",
-  "nomad-tdms-plugin @ git+https://github.com/HussainArif12/nomad-tdms-plugin.git@701709e8996fdb536a5ea60f3a6885fc6e86155a"
+  "nomad-tdms-plugin @ git+https://github.com/HussainArif12/nomad-tdms-plugin.git@271ed8129497f8897e4e7ba7b2dbf1312d3c70f7"
 
 ]
 jupyter = ["jupyter-events"]

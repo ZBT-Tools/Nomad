@@ -17,8 +17,6 @@ keycloak:
   server_url: 'http://nomad_oasis_keycloak:8080/auth/'
   public_server_url: 'http://172.16.134.7/keycloak/auth/'
   realm_name: nomad
-  username: 'admin'
-  password: 'demo'
 
 meta:
   deployment: "oasis"
