@@ -60,8 +60,8 @@ plugins = [
   "nomad-parser-plugins-database>=1.0",
   "nomad-greenlight-plugin @ git+https://github.com/ZBT-Tools/nomad-greenlight-plugin.git",
   "nptdms",
-  "nomad-tdms-plugin @ git+https://github.com/HussainArif12/nomad-tdms-plugin.git@271ed8129497f8897e4e7ba7b2dbf1312d3c70f7"
-
+  "nomad-tdms-plugin @ git+https://github.com/HussainArif12/nomad-tdms-plugin.git@271ed8129497f8897e4e7ba7b2dbf1312d3c70f7",
+  "nomad-plugin-demo @ git+https://github.com/HussainArif12/nomad-plugin-demo.git@d88dd7255ebac5c32d51c930a961e12d33bf73e4",
 ]
 jupyter = ["jupyter-events"]
 gpu-action = []
